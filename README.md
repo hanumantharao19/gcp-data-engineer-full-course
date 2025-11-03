@@ -23,7 +23,7 @@ Class	Topic
 18	Pub/Sub + Dataflow – Streaming Pipelines
 19	Dataproc – Hadoop/Spark on GCP
 20	Mini Project – Dataflow + BigQuery Pipeline
-📊 Phase 3: Data Warehousing & Orchestration (Class 21–30)
+## Phase 3: Data Warehousing & Orchestration (Class 21–30)
 Class	Topic
 21	Data Warehousing Architecture
 22	Cloud Composer (Airflow) – DAGs, Scheduling
@@ -47,7 +47,7 @@ Class	Topic
 38	Data Visualization with Looker Studio
 39	Cost Optimization & Performance Tuning in GCP
 40	Mini Project – ML Prediction Pipeline on GCP
-🛠️ Phase 5: Advanced Engineering & Real Projects (Class 41–50)
+## Phase 5: Advanced Engineering & Real Projects (Class 41–50)
 Class	Topic
 41	CI/CD for Data Pipelines using Cloud Build
 42	Terraform for Infrastructure as Code
