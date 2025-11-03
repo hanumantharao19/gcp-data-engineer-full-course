@@ -1,5 +1,5 @@
 Google Data Engineer — 50-Class Roadmap
-📘 Phase 1: Data & Programming Fundamentals (Class 1–10)
+## Phase 1: Data & Programming Fundamentals (Class 1–10)
 Class	Topic
 1	Introduction to Data Engineering & GCP Overview
 2	Python for Data Engineering – Basics
@@ -11,7 +11,7 @@ Class	Topic
 8	ETL Concepts – Extract, Transform, Load
 9	Version Control with Git & GitHub Workflow
 10	Mini Project – Build a Local ETL Pipeline
-☁️ Phase 2: Google Cloud Platform (GCP) Core Services (Class 11–20)
+## Phase 2: Google Cloud Platform (GCP) Core Services (Class 11–20)
 Class	Topic
 11	GCP Fundamentals – IAM, Projects, Billing
 12	Cloud Storage (GCS) – Buckets, Objects, Lifecycle
@@ -35,7 +35,7 @@ Class	Topic
 28	Cloud SQL & Spanner – Relational Databases on GCP
 29	Bigtable & Firestore – NoSQL on GCP
 30	Project – Automated ETL Workflow using Composer
-🧮 Phase 4: Machine Learning Integration & Analytics (Class 31–40)
+##  Phase 4: Machine Learning Integration & Analytics (Class 31–40)
 Class	Topic
 31	Intro to AI/ML in GCP
 32	Using BigQuery ML for Predictions
